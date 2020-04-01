@@ -2,7 +2,7 @@
 todo-app 0.1
 ============
 
-Projeto simples de uma lista de tarefas, utilizando NodeJS+Express no backend e React+Webpack no frontend.
+Projeto simples de uma lista de tarefas, utilizando NodeJS+Express no backend e React+Webpack no frontend Banco de dados utilizado é o mongodb.
 
 ### Instalação
 
