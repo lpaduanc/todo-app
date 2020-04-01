@@ -14,4 +14,4 @@ Projeto simples de uma lista de tarefas, utilizando NodeJS+Express no backend e 
 
 ### Testando a aplicação
 
-1.Abra o browser e visite a págian `http://localhost:8080
+1.Abra o browser e visite a págian `http://localhost:8080`
